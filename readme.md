@@ -1,3 +1,7 @@
+# 🚩**TEMPORARY FORK UNTIL THE PYPI VERSION IS FIXED**🚩
+
+For more infos see https://github.com/wbond/oscrypto/issues/78
+
 # oscrypto
 
 A compilation-free, always up-to-date encryption library for Python that works
